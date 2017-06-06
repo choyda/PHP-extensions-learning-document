@@ -26,6 +26,10 @@ swoole扩展的作者韩天峰为大伙录制的一份PHP扩展开发教程，�
 
 不错的文档，写的很详细。似乎还没写完。
 
+[PHP7内核剖析](https://github.com/pangudashu/php7-internal) ：
+
+滴滴出行工程师写的关于PHP7内核的文章。内容非常好，对于想要了解PHP7内核的同学来说是一大助力。
+
 IDE
 ---
 
